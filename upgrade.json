@@ -1,0 +1,24 @@
+{
+  "manifests":[
+    {
+      "versionCode": 10001,
+      "updates": [
+        {
+          "versionCode": 101,
+          "packageName": "cn.microants.merchants.app.main",
+          "downloadUrl": "http://www.xxxx"
+        },
+        {
+          "versionCode": 101,
+          "packageName": "cn.microants.merchants.app.store",
+          "downloadUrl": "http://www.xxxx"
+        },
+        {
+          "versionCode": 101,
+          "packageName": "cn.microants.merchants.app.marketservice",
+          "downloadUrl": "http://www.xxxx"
+        }
+      ]
+    }
+  ]
+}
