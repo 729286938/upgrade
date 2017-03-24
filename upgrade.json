@@ -4,13 +4,13 @@
             "versionCode": 10001,
             "updates": [
                 {
-                    "versionCode": 2,
+                    "versionCode": 1,
                     "packageName": "cn.microants.merchants.app.account",
                     "downloadUrl": "https://raw.githubusercontent.com/729286938/upgrade/master/cn.microants.merchants.app.account.apk",
                     "md5": "ce446f8c8e5c18521991c9955b4d07b4"
                 },
                 {
-                    "versionCode": 2,
+                    "versionCode": 1,
                     "packageName": "cn.microants.merchants.app.store",
                     "downloadUrl": "https: //raw.githubusercontent.com/729286938/upgrade/master/cn.microants.merchants.app.store.apk",
                     "md5": "9559c5dfd251cfc9d06c9601cc24861f"
