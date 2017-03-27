@@ -5,13 +5,13 @@
             "updates": [
                 {
                     "versionCode": 2,
-                    "packageName": "cn.microants.merchants.app.opportunity”,
+                    "packageName": "cn.microants.merchants.app.opportunity",
                     "downloadUrl": "https://raw.githubusercontent.com/729286938/upgrade/master/opportunity1.0.1.apk",
                     "md5": "845b7c3bb0f835272cc4fc40ebdb76fe"
                 },
                 {
                     "versionCode": 2,
-                    "packageName": "cn.microants.merchants.lib.base”,
+                    "packageName": "cn.microants.merchants.lib.base",
                     "downloadUrl": "https://raw.githubusercontent.com/729286938/upgrade/master/base1.0.1.apk",
                     "md5": "f26f5822ffa8e85560b94e89a69d9b17"
                 }
