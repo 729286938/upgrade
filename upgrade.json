@@ -1,21 +1,27 @@
 {
-    "manifests": [
+  "manifests": [
+    {
+      "versionCode": 10031,
+      "updates": [
         {
-            "versionCode": 10001,
-            "updates": [
-                {
-                    "versionCode": 1,
-                    "packageName": "cn.microants.merchants.app.account",
-                    "downloadUrl": "https://raw.githubusercontent.com/729286938/upgrade/master/cn.microants.merchants.app.account.apk",
-                    "md5": "ce446f8c8e5c18521991c9955b4d07b4"
-                },
-                {
-                    "versionCode": 1,
-                    "packageName": "cn.microants.merchants.app.store",
-                    "downloadUrl": "https://raw.githubusercontent.com/729286938/upgrade/master/cn.microants.merchants.app.store.apk",
-                    "md5": "9559c5dfd251cfc9d06c9601cc24861f"
-                }
-            ]
+          "versionCode": 2,
+          "packageName": "cn.microants.merchants.app.opportunity",
+          "downloadUrl": "https://raw.githubusercontent.com/729286938/upgrade/master/opportunity_version_2.apk",
+          "md5": "8193ceba444d03b826576d9817dc2cf4"
+        },
+        {
+          "versionCode": 2,
+          "packageName": "cn.microants.merchants.app.main",
+          "downloadUrl": "https://raw.githubusercontent.com/729286938/upgrade/master/main_version_2.apk",
+          "md5": "76d895203549befed5de3bbdd541ebd6"
+        },
+        {
+          "versionCode": 2,
+          "packageName": "cn.microants.merchants.app.store",
+          "downloadUrl": "https://raw.githubusercontent.com/729286938/upgrade/master/store_version_2.apk",
+          "md5": "3b2bc8bc8913b6109469473aa521e60f"
         }
-    ]
+      ]
+    }
+  ]
 }
