@@ -22,10 +22,10 @@
           "md5": "3b2bc8bc8913b6109469473aa521e60f"
         },
         {
-          "versionCode": 2,
+          "versionCode": 3,
           "packageName": "cn.microants.merchants.lib.base",
-          "downloadUrl": "https://raw.githubusercontent.com/729286938/upgrade/master/base_version_2.apk",
-          "md5": "bca291441972a314ae0c4a86e43e910a"
+          "downloadUrl": "https://raw.githubusercontent.com/729286938/upgrade/master/base_version_3.apk",
+          "md5": "687f5a78257578160aac602af14811c4"
         },
         {
           "versionCode": 2,
